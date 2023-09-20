@@ -5,6 +5,32 @@ body{
     
 }
 
+h1{
+    color: white;
+    font-style: bold;
+    font-size: 100px;
+}
+
+h2{
+    color: white;
+    font-style: bold;
+    font-size: 30px;
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 h60{
     color: white;
     font-style: bold;
@@ -108,8 +134,41 @@ button:nth-child(2):hover{
     background-size: 400%;
     
 }
-
-
+button:nth-child(3):hover{
+    background: linear-gradient(90deg, #03a9f4, #f441a5, #ffeb3b, #03a9f4);
+    background-size: 400%;
+    
+}
+button:nth-child(4):hover{
+    background: linear-gradient(90deg, #03a9f4, #f441a5, #ffeb3b, #03a9f4);
+    background-size: 400%;
+    
+}
+button:nth-child(5):hover{
+    background: linear-gradient(90deg, #03a9f4, #f441a5, #ffeb3b, #03a9f4);
+    background-size: 400%;
+    
+}
+button:nth-child(6):hover{
+    background: linear-gradient(90deg, #03a9f4, #f441a5, #ffeb3b, #03a9f4);
+    background-size: 400%;
+    
+}
+button:nth-child(7):hover{
+    background: linear-gradient(90deg, #03a9f4, #f441a5, #ffeb3b, #03a9f4);
+    background-size: 400%;
+    
+}
+button:nth-child(8):hover{
+    background: linear-gradient(90deg, #03a9f4, #f441a5, #ffeb3b, #03a9f4);
+    background-size: 400%;
+    
+}
+button:nth-child(9):hover{
+    background: linear-gradient(90deg, #03a9f4, #f441a5, #ffeb3b, #03a9f4);
+    background-size: 400%;
+    
+}
 button:last-child:hover{
     background: linear-gradient(90deg, #03a9f4, #f441a5, #ffeb3b, #03a9f4);
     background-size: 400%;
