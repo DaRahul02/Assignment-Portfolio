@@ -80,7 +80,7 @@ h90{
     position: absolute;
     top: 250px;
     right: 30px;
-    left: 1730px;
+    left: 1330px;
     height: 600px;
     width: 500px;
     border-radius: 30px;
@@ -94,7 +94,7 @@ h90{
     right: 30px;
     left: 680px;
     height: 400px;
-    width: 1000px;
+    width: 600px;
     border-radius: 30px;
     
 
@@ -112,7 +112,7 @@ button{
 button{
     position: relative;
     height: 60px;
-    width: 2280px;
+    width: 1810px;
     margin: 0 35px;
     border-radius: 50px;
     border: none;
