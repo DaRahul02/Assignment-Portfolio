@@ -111,6 +111,7 @@ button{
 
 button{
     position: relative;
+   
     height: 60px;
     width: 1810px;
     margin: 0 35px;
@@ -183,6 +184,11 @@ button:nth-child(21):hover{
     
 }
 
+button:nth-child(25):hover{
+    background: linear-gradient(90deg, #03a9f4, #f441a5, #ffeb3b, #03a9f4);
+    background-size: 400%;
+    
+}
 
 
 
