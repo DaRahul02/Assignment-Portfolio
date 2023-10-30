@@ -190,6 +190,14 @@ button:nth-child(25):hover{
     
 }
 
+button:nth-child(29):hover{
+    background: linear-gradient(90deg, #03a9f4, #f441a5, #ffeb3b, #03a9f4);
+    background-size: 400%;
+    
+}
+
+
+
 
 
 button:last-child:hover{
